@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: Sơn Nguyễn IT - sonitx
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Sơn Nguyễn
+  email: sondev2802@gmail.com
 
 plugins:
   - jemoji
